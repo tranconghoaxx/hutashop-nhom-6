@@ -58,7 +58,7 @@ define( 'NONCE_SALT',       'aEmWbILap2YSqMe)!8=lFa?S1hEQOq{rUpwd8#DTBw3/}Lk04-|
 /**#@-*/
 
 /**
- * WordPress Database Table prefix.
+ * WordPress Database Table prefix.git remote add origin https://github.com/tranconghoaxx/hutashop-nhom-6.git
  *
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
